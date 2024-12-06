@@ -1,3 +1,5 @@
+**Credit:**- github.com/wolfxd618
+
 1. Install Termux from the Play Store. If you are on a PC, use Kali Linux or any other Linux distribution available in Windows.
 
 2. Run the following commands one by one:
