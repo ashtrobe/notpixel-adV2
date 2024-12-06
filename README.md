@@ -38,7 +38,7 @@ Then ```php main.php```
 
 6. Choose the option to save accounts.
 
-7. Paste your referral link and press Enter. If you have multiple accounts, repeat this process to save all your referral links.
+7. Paste your referral link and press Enter. If you have multiple accounts, Choose the option to save multiple accounts and save all your referral links.
 
 8. Select option 2 to start earning.
 
