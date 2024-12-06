@@ -24,6 +24,18 @@ cd notpixel-adV2
 ```
 php main.php
 ```
+(if you run into any "CANNOT LINK EXECUTABLE" issue, run these commands) -
+```
+pkg install libicu -y
+```
+```
+ln -s /data/data/com.termux/files/usr/lib/libicui.so.X /data/data/com.termux/files/usr/lib/libicui.so.76
+```
+```
+pkg reinstall php
+```
+Then ```php main.php```
+
 6. Choose the option to save accounts.
 
 7. Paste your referral link and press Enter. If you have multiple accounts, repeat this process to save all your referral links.
